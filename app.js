@@ -20,7 +20,7 @@ module.exports = function () {
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
     amzn_appId: "amzn1.ask.skill.14bcaba3-9fc0-4da8-ad3c-b8e232b20dfb",
     channelSecretKey: 'Fh2oXxbsGMTZVNKF37mc8yBGlr8nZjAM',
-    channelUrl: 'https://e87476aa.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/1D3B372B-F867-41EF-ADC4-8571015436E4'
+    channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/1D3B372B-F867-41EF-ADC4-8571015436E4'
   };
 
   this.randomIntInc = function (low, high) {
